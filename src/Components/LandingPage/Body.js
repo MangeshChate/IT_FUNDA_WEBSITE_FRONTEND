@@ -10,12 +10,12 @@ export default function Body() {
         <div className="col-lg-auto mt-4 mt-lg-0 text-center text-lg-start">
             <div className="container-fluid p-5 shadow rounded-4 d-flex flex-column justify-content-center align-items-center">
                 <h3 className="fw-bolder text-info-emphasis" style={{fontSize:" 5rem", color: "darkslateblue" ,fontFamily:"'Indie Flower'"}}>IT FUNDA</h3>
-                <p className="fw-bolder text-decoration-underline">Grab All Assignment In One Place</p>
+                <p className="fw-bolder text-decoration-underline" style={{fontFamily:"'Indie Flower'"}}>Grab All Assignment In One Place</p>
             </div>
             <button className="btn btn-danger mt-3">Let's Start</button>
         </div>
     </div>
-    <div className="row mt-4 justify-content-center">
+    <div className="row mt-4 justify-content-center" style={{fontFamily:"'Indie Flower'"}}>
         <div className="col-md-auto">
             <div className="card shadow m-3 p-3" style={{maxWidth:"25rem"}}>
                 <div className="card-body text-center">
