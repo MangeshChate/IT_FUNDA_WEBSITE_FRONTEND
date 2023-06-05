@@ -40,29 +40,29 @@ export default function Body() {
         </div>
     </div>
     <hr/>
-    <div className="row m-3">
+    <div className="row m-3" style={{fontFamily:"'Indie Flower'"}}>
         <div className="col-md d-flex justify-content-center align-items-center bg-danger rounded-5">
             <div className="container text-light">
-                <h3 className="fw-bold p-3" style={{fontFamily:" Verdana, Geneva, Tahoma, sans-serif"}}>"Never let the fear of striking out keep you from playing the game."</h3>
+                <h3 className="fw-bold p-3" style={{fontFamily:"'Indie Flower'"}}>" Never let the fear of striking out keep you from playing the game. "</h3>
             </div>
         </div>
         <div className="col-md mt-3 mb-3">
             <img src="https://d3m1rm8xuevz4q.cloudfront.net/wp-content/uploads/2022/04/web_feature_image.jpg" className="img-fluid " alt=""/>
         </div>
     </div>
-    <div className="m-3">
+    <div className="m-3" style={{fontFamily:"'Indie Flower'"}}>
         <div className="container bg-dark text-light p-4 rounded-4 shadow d-flex align-items-center justify-content-between flex-wrap">
             <h5 className="fw-bold">Join Our Services, Be a Contributor</h5>
             <button className="btn btn-outline-light mt-2">Learn More</button>
         </div>
     </div>
-    <div className="row m-3">
+    <div className="row m-3" >
         <div className="col-md mt-3 mb-3">
             <img src="https://d3m1rm8xuevz4q.cloudfront.net/wp-content/uploads/2021/09/perfect_image3.png" className="img-fluid " alt=""/>
         </div>
         <div className="col-md d-flex justify-content-center align-items-center bg-danger rounded-4">
             <div className="container text-light">
-                <h3 className="fw-bold p-3" style={{fontFamily: "Verdana, Geneva, Tahoma, sans-serif"}}>"In the end, it's not the years in your life that count."</h3>
+                <h3 className="fw-bold p-3" style={{fontFamily:"'Indie Flower'"}}>" In the end, it's not the years in your life that count. "</h3>
             </div>
         </div>
     </div>
