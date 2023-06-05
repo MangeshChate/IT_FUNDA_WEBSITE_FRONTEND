@@ -18,7 +18,7 @@ export default function Footer() {
                     <button className="btn btn-outline-light mt-4 w-100">Submit</button>
                 </form>
             </div>
-        </div>
+        </div>-
     </div>
     </footer>
   )
