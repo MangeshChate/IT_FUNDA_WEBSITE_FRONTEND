@@ -13,10 +13,10 @@ export default function Navbar() {
             <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
                 <ul className="navbar-nav">
                     <li className="nav-item">
-                        <a className="nav-link btn btn-success fw-bold" href="index2.php">Login</a>
+                        <a className="nav-link btn  fw-bold" href="index2.php">Login</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link btn btn-success fw-bold ms-2" href="http://itfunda.rf.gd/signup.html">Register</a>
+                        <a className="nav-link btn  fw-bold ms-2" href="http://itfunda.rf.gd/signup.html">Register</a>
                     </li>
                 </ul>
             </div>
