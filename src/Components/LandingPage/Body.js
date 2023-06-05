@@ -8,8 +8,8 @@ export default function Body() {
             <img src="https://cdn-icons-png.flaticon.com/512/4524/4524463.png" className="img-fluid" alt=""/>
         </div>
         <div className="col-lg-auto mt-4 mt-lg-0 text-center text-lg-start">
-            <div className="container-fluid p-5 shadow rounded-4">
-                <h3 className="fw-bolder text-info-emphasis" style={{fontSize:" 5rem", color: "darkslateblue", fontFamily:"'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif"}}>IT FUNDA</h3>
+            <div className="container-fluid p-5 shadow rounded-4 d-flex flex-column justify-content-center align-items-center">
+                <h3 className="fw-bolder text-info-emphasis" style={{fontSize:" 5rem", color: "darkslateblue" ,fontFamily:"'Indie Flower'"}}>IT FUNDA</h3>
                 <p className="fw-bolder text-decoration-underline">Grab All Assignment In One Place</p>
             </div>
             <button className="btn btn-danger mt-3">Let's Start</button>
