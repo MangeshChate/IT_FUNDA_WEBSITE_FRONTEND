@@ -1,0 +1,13 @@
+.zoro{
+    position: absolute;
+    height: 100vh;
+
+    z-index: -1;
+  
+    
+}
+.homenav{
+    position: relative;
+   background-size: cover;
+   overflow: hidden;
+}

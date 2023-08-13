@@ -1,5 +1,5 @@
 import React from 'react'
-
+import {Link } from 'react-router-dom'
 export default function Body() {
   return (
     <div className="container mt-4">
@@ -12,7 +12,7 @@ export default function Body() {
                 <h3 className="fw-bolder text-info-emphasis" style={{fontSize:" 5rem", color: "darkslateblue" }}>IT FUNDA</h3>
                 <p className="fw-bolder text-decoration-underline" >Grab All Assignment In One Place</p>
             </div>
-            <button className="btn btn-danger mt-3">Let's Start</button>
+            <Link  to="/home" className="btn btn-danger mt-3">Let's Start</Link>
         </div>
     </div>
     <div className="row mt-4 justify-content-center" >
